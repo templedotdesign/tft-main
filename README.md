@@ -1,2 +1,2 @@
 # tft-main
-A website for Tons ofFun Travel
+A website for Tons of Fun Travel
